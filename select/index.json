@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "大丈夫",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2025-12-04T17:43:23.756133Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "CHIHIRO",
+      "has_synced": true,
+      "path": "select/01_大丈夫_CHIHIRO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "Kazuyoshi Saito",
+      "has_synced": false,
+      "path": "select/02_大丈夫_Kazuyoshi_Saito.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "斉藤和義",
+      "has_synced": false,
+      "path": "select/03_大丈夫_斉藤和義.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "莫等待/ 相識非偶然/ 大丈夫",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/04_莫等待__相識非偶然__大丈夫_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "莫等待 / 相識非偶然 / 大丈夫",
+      "artist": "張學友",
+      "has_synced": true,
+      "path": "select/05_莫等待___相識非偶然___大丈夫_張學友.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We'll Be Alright (Movie Edit) / 大丈夫 (Movie Edit)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/06_We'll_Be_Alright_(Movie_Edit)___大丈夫_(Movie_Edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "大丈夫 (Movie Edit)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/07_大丈夫_(Movie_Edit)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "蔡依林",
+      "has_synced": false,
+      "path": "select/08_大丈夫_蔡依林.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_大丈夫_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "Jolin Tsai",
+      "has_synced": true,
+      "path": "select/10_大丈夫_Jolin_Tsai.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "大丈夫 - Play World Tour Live",
+      "artist": "Jolin Tsai",
+      "has_synced": false,
+      "path": "select/11_大丈夫_-_Play_World_Tour_Live_Jolin_Tsai.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "大丈夫 - Daijyoubu",
+      "artist": "Hilcrhyme",
+      "has_synced": true,
+      "path": "select/12_大丈夫_-_Daijyoubu_Hilcrhyme.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "莫等待 / 相識非偶然 / 大丈夫",
+      "artist": "Jacky Cheung",
+      "has_synced": true,
+      "path": "select/13_莫等待___相識非偶然___大丈夫_Jacky_Cheung.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "絶対、大丈夫",
+      "artist": "森山直太朗",
+      "has_synced": true,
+      "path": "select/14_絶対、大丈夫_森山直太朗.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "眉村ちあき",
+      "has_synced": true,
+      "path": "select/15_大丈夫_眉村ちあき.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/16_大丈夫_クリープハイプ.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "大丈夫",
+      "artist": "Supper Moment",
+      "has_synced": false,
+      "path": "select/17_大丈夫_Supper_Moment.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "大丈夫 (Movie edit) - We'll Be Alright (Movie Edit)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/18_大丈夫_(Movie_edit)_-_We'll_Be_Alright_(Movie_Edit)_Radwimps.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大丈夫",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_大丈夫_RADWIMPS.txt"
+    }
+  ]
+}
